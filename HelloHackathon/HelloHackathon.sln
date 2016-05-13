@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloHackathon", "HelloHackathon\HelloHackathon.csproj", "{A67A078D-0D9E-4327-82FD-E42F3A990218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloHackathon.Tests", "HelloHackathon.Tests\HelloHackathon.Tests.csproj", "{DD8869FE-CB4B-46EF-B435-74A6C5DCD86B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67A078D-0D9E-4327-82FD-E42F3A990218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67A078D-0D9E-4327-82FD-E42F3A990218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67A078D-0D9E-4327-82FD-E42F3A990218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67A078D-0D9E-4327-82FD-E42F3A990218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8869FE-CB4B-46EF-B435-74A6C5DCD86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8869FE-CB4B-46EF-B435-74A6C5DCD86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8869FE-CB4B-46EF-B435-74A6C5DCD86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8869FE-CB4B-46EF-B435-74A6C5DCD86B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ericbrunswick.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HelloHackathon.Tests\\HelloHackathon.Tests.csproj
+		SccProjectName1 = HelloHackathon.Tests
+		SccLocalPath1 = HelloHackathon.Tests
+		SccProjectUniqueName2 = HelloHackathon\\HelloHackathon.csproj
+		SccProjectName2 = HelloHackathon
+		SccLocalPath2 = HelloHackathon
+	EndGlobalSection
+EndGlobal
